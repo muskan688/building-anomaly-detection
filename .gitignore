@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/*.parquet
+data/processed/*.csv
+models/*.pt
+.ipynb_checkpoints/
+*.egg-info/
+data/processed/*.npz
+.env
+.claude/
